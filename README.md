@@ -13,6 +13,8 @@ The project was developed as part of an NLP assignment and follows a complete pi
 │   ├── app.py
 │   └── templates/
 │       └── index.html
+├── images/
+│   └── demo.png
 ├── data/
 │   └── hp_kaggle_corpus.txt
 ├── artifacts/ 
@@ -97,3 +99,9 @@ Install dependencies using:
 pip install -r requirements.txt
 
 Python version: 3.11
+
+---
+
+## Website UI
+![Demo Image](image/Screenshot 2026-02-02 071722.png)
+![Demo Image](image/Screenshot 2026-02-02 071749.png)
