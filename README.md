@@ -13,18 +13,17 @@ The project was developed as part of an NLP assignment and follows a complete pi
 │   ├── app.py
 │   └── templates/
 │       └── index.html
-├── artifacts/
-│   └── lm_lstm_best.pt
 ├── data/
 │   └── hp_kaggle_corpus.txt
-├── data_raw/
+├── artifacts/ 
+│   └── lm_lstm_best.pt
+├── data_raw/ 
 │   └── *.txt
 ├── notebook.ipynb
 ├── requirements.txt
 ├── .gitignore
 └── README.md
 
----
 
 ## Dataset
 
