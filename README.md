@@ -103,5 +103,5 @@ Python version: 3.11
 ---
 
 ## Website UI
-![Demo Image](image/Screenshot 2026-02-02 071722.png)
-![Demo Image](image/Screenshot 2026-02-02 071749.png)
+![Demo Image](image/nlp1.png)
+![Demo Image](image/nlp2.png)
