@@ -7,7 +7,7 @@ The project was developed as part of an NLP assignment and follows a complete pi
 ---
 
 ## Project Structure
-
+```
 .
 ├── app/
 │   ├── app.py
@@ -23,7 +23,7 @@ The project was developed as part of an NLP assignment and follows a complete pi
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
+```
 
 ## Dataset
 
